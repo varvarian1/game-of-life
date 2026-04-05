@@ -2,6 +2,8 @@
 
 GOF - it's a popular implementation of Conway's Game of Life
 
+![Game of Life Demo](../img/game-of-life.gif)
+
 ### Rules
 
 - The game takes place on an infinite (or finite) two-dimensional grid of cells.
